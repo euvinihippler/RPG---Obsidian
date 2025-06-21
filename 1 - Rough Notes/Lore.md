@@ -5,7 +5,9 @@ Status:
 Tags: 
 
 ----
-# Tittle
+# O meu personagem se trata de um troll
+
+	esse troll tem aparencia amedrontadora e etc
 
 
 ----
